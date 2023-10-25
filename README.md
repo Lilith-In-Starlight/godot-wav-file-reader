@@ -55,7 +55,7 @@ if MyStream.result:
 	$MyAudioStream.stream = MyStream.result
 elif MyStream.code > 0:
 	push_error("no file? *megamind meme*")
-elseMyStream.code > 0:
+else:
 	push_error("broken file? *megamind meme*")
 ```
 
