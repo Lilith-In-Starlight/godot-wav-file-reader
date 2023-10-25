@@ -22,6 +22,7 @@ _global_script_class_icons={
 
 config/name="WAVFileReader"
 run/main_scene="res://ExampleScene.tscn"
+config/icon="res://icon.png"
 
 [editor_plugins]
 
