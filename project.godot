@@ -9,7 +9,7 @@
 config_version=4
 
 _global_script_classes=[ {
-"base": "EditorPlugin",
+"base": "Resource",
 "class": "WAVFileReader",
 "language": "GDScript",
 "path": "res://addons/ampersandia_wav_file_reader/wav_file_reader.gd"
