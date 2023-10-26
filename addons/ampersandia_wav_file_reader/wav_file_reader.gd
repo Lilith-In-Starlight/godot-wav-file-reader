@@ -1,4 +1,4 @@
-extends EditorPlugin
+extends Resource
 
 class_name WAVFileReader
 
